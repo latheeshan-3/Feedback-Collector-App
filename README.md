@@ -2,6 +2,8 @@
 
 A full-stack MERN application for collecting user feedback. The frontend is built with **Next.js**, and the backend uses **Express.js** with **MongoDB Atlas** as the database.
 
+
+Drive link  for demo video - https://drive.google.com/file/d/1cRdQp0YDB39Acefi5637G8DYrPN2G8ZJ/view?usp=sharing
 ---
 
 ## Project Structure
@@ -25,10 +27,7 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:5000/api/feedback
 
 ### Backend (`backend/.env.`)
 
-# Server configuration
 PORT=5000
-
-# MongoDB Atlas connection string
 MONGO_URI=mongodb+srv://latheeshan888_db_user:5HglZsxygFwxKldS@feedbacks.d3cteui.mongodb.net/?retryWrites=true&w=majority&appName=feedbacks
 
 
